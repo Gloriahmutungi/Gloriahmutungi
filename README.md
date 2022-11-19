@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@gloriamutungi" target="blank"><img src="https://img.shields.io/twitter/follow/gloriamutungi?logo=twitter&style=for-the-badge" alt="gloriamutungi" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel bookung system**
+- 🔭 I’m currently working on **Hotel reservation system**
 
 - 🌱 I’m currently learning **Django,Python**
 
