@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently working on **Hotel reservation system**
 
-- 🌱 I’m currently learning **Django,Python**
-
-- 🤝 I’m looking for help with **SpringBoot**
+- 🌱 I’m currently learning **Django,Python,SpringBoot**
 
 - 👨‍💻 All of my projects are available at [gloria.alphasolutions.co.ke](gloria.alphasolutions.co.ke)
 
-- 💬 Ask me about **Laravel,PHP,Bootstrap,Javascript**
+- 💬 Ask me about **Laravel,PHP,Bootstrap,Javascript,Vue Js**
 
 - 📫 How to reach me **gloriamutungi16@gmail.com**
 
@@ -27,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/gloriamutungi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gloriamutungi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/gloria mutungi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gloria mutungi" height="30" width="40" /></a>
-<a href="https://fb.com/gloria mutungi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gloria mutungi" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gloria mutungi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
