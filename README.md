@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [gloria.alphasolutions.co.ke](gloria.alphasolutions.co.ke)
 
-- 💬 Ask me about **Laravel,PHP,Bootstrap,Javascript,Vue Js**
+- 💬 Ask me about **Laravel,PHP,Bootstrap,Javascript,Vue Js,React Js**
 
 - 📫 How to reach me **gloriamutungi16@gmail.com**
 
